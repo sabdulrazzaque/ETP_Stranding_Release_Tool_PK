@@ -1,0 +1,51 @@
+{
+    "timestamp_patterns": [
+        "\\d{1,2}\\s+(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)[a-z]*[,]?\\s*\\d{4}",
+        "(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)[a-z]*\\s+\\d{1,2}[,]?\\s*\\d{4}",
+        "(january|february|march|april|may|june|july|august|september|october|november|december)\\s+\\d{1,2}(?:,\\s*\\d{4})?",
+        "\\d{1,2}\\s+(january|february|march|april|may|june|july|august|september|october|november|december)"
+    ],
+    "turtle_keywords": [
+        "green turtle",
+        "olive ridley",
+        "#greenturtle",
+        "#oliveridley",
+        "کچوے"
+    ],
+    "dead_keywords": [
+        "dead",
+        "washed up",
+        "ہلاک"
+    ],
+    "alive_keywords": [
+        "released",
+        "rescued",
+        "آزاد"
+    ],
+    "species_keywords": {
+        "green turtle": "Green Turtle",
+        "olive ridley": "Olive Ridley",
+        "leatherback": "Leatherback",
+        "loggerhead": "Loggerhead",
+        "hawksbill": "Hawksbill"
+    },
+    "interaction_keywords": {
+        "stranded": "Stranded",
+        "sighted": "Sighted",
+        "bycatch": "Bycatch"
+    },
+    "location_keywords": {
+        "jiwani": "Gwadar",
+        "ganz": "Gwadar",
+        "pishukan": "Gwadar",
+        "sur bandar": "Gwadar",
+        "pasni": "Gwadar",
+        "ormara": "Gwadar",
+        "west bay gwadar": "Gwadar",
+        "east bay gwadar": "Gwadar",
+        "astola": "Gwadar",
+        "bandari beach": "Gwadar",
+        "karachi": "Karachi",
+        "sonmiani": "Lasbela"
+    }
+}
